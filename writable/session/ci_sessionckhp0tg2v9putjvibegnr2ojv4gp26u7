@@ -1,0 +1,13 @@
+__ci_last_regenerate|i:1709257375;_ci_previous_url|s:53:"http://localhost/perpus_new/public/index.php/register";error|s:384:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>Email Harus diisi !</li>
+					<li>Username Harus diisi !</li>
+					<li>Nama Lengkap Harus diisi !</li>
+					<li>Nomor Telpon Harus diisi !</li>
+					<li>Password Harus diisi !</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:7:{s:12:"nama_lengkap";s:0:"";s:13:"jenis_kelamin";s:0:"";s:6:"alamat";s:0:"";s:5:"email";s:0:"";s:9:"no_telpon";s:0:"";s:8:"username";s:0:"";s:8:"password";s:0:"";}}_ci_validation_errors|a:5:{s:5:"email";s:19:"Email Harus diisi !";s:8:"username";s:22:"Username Harus diisi !";s:12:"nama_lengkap";s:26:"Nama Lengkap Harus diisi !";s:9:"no_telpon";s:26:"Nomor Telpon Harus diisi !";s:8:"password";s:22:"Password Harus diisi !";}
