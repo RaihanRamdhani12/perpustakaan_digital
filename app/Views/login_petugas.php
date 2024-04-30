@@ -60,14 +60,6 @@
                                     <label for="exampleInputPassword1" class="form-label">Password</label>
                                     <input type="password" class="form-control" id="password" name="password">
                                 </div>
-                                <div class="mb-3">
-                                    <p>ID : raihanramdhani229@gmail.com</p>
-                                    <p>Password : 1 (ADMIN)</p>
-                                    <p>Password : qwerty (PETUGAS)</p>
-                                </div>
-                                <div class="d-grid gap-2">
-                                    <button class="btn btn-primary" type="submit">Login</button>
-                                </div>
                             </form>
                         </div>
                     </div>
