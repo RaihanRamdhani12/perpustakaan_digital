@@ -46,10 +46,6 @@
                                 <li class="nav-item">
                                     <a class="nav-link active" aria-current="page" href="<?= base_url() ?>">Home</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" aria-current="page" href="<?= base_url() ?>login_petugas">Login
-                                        Adm/Ptgs</a>
-                                </li>
                             </ul>
                         </div>
                         <!--/.nav-collapse -->
