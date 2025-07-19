@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="<?= base_url() ?>bootstrap/css/bootstrap.min.css">
 
         <!-- Favicon -->
-        <link rel="icon" href="<?= base_url() ?>img/logo2.png">
+        <link rel="icon" href="<?= base_url() ?>/img/logo2.png">
 
         <!-- FontAwesome -->
         <link rel="stylesheet" href="<?= base_url() ?>fontawesome/css/all.min.css">
